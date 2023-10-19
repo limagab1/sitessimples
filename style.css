@@ -42,7 +42,7 @@ nav li a:hover{
 }
 .banner{
     height: 100vh;
-    background: linear-gradient( rgb(212, 6, 6), rgb(22, 8, 212)),url('gumball.jpg');
+    background: linear-gradient( rgba(92, 71, 71, 0.329), rgba(89, 87, 114, 0.322)),url('gumball.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
